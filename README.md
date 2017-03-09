@@ -1,6 +1,7 @@
-# Java Hello World Sample
+# Hello Redis for Java
 
 This project contains a simple servlet application.
+This application demonstrates simple Redis usages for Liberty Profile
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-helloworld)
 
