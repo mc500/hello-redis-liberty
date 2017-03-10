@@ -47,7 +47,6 @@
             <artifactId>lettuce</artifactId>
             <version>4.3.0.Final</version>
         </dependency>
-        </dependency>
     </dependencies>
 
     <build>
